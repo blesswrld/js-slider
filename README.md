@@ -20,7 +20,7 @@ The **JavaScript Slider Module** provides a reusable and fully customizable slid
 To get started, clone the repository:  
 
 ```bash  
-git clone https://github.com/yourusername/js-slider-module.git  
+git clone https://github.com/blesswrld/js-slider-documentation.git
 ```  
 
 Or download the `slider.js` file and include it in your project.  
